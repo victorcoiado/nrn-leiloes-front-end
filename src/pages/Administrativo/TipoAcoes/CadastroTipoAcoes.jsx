@@ -15,7 +15,7 @@ export default function CadastroTipoAcoes(acoes_tipos) {
 
     const handleSubmit = (e) => {
         e.preventDefault()
-        console.log(nome);
+        //console.log(nome);
     }
 
     useEffect(() => {
