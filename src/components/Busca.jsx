@@ -5,9 +5,7 @@ export default function Busca({ value, onChange }) {
     const handleChange = (e) => {
         onChange(e.target.value)
     }
-
-
-
+    
     return (
         <div>
 
